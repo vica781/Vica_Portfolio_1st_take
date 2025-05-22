@@ -515,3 +515,9 @@ Design should adapt to different screen sizes:
 - **Mobile**: Single column layout with hamburger menu
 
 [Back to Top](#victoria-kalenik---full-stack-developer-portfolio-designplan)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[Back to Top](#victoria-kalenik---full-stack-developer-portfolio-designplan)
